@@ -1,4 +1,4 @@
-## Group chat app 
+## Nest.js auth skeleton
 
 This is the nest.js back-end group chat project.
 
