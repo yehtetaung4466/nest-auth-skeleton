@@ -1,6 +1,6 @@
 ## Nest.js auth skeleton
 
-This is the nest.js back-end group chat project.
+This is the nest.js auth skeleton project.
 
 ### To start the project
 - clone the project
